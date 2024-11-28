@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## 👋 AI 인공지능 아이디어톤
-데이터 분석을 통해 GS25에게 공유우산 사업을 제안하는 프로젝트
+이미 서비스 종료된 사업을 찾아 분석하고, 생성형 AI 서비스를 활용하여 새로운 비즈니스 아이디어 및 사업전략 제안
 <br/>
 
 [![image](https://github.com/user-attachments/assets/ca60a7fa-1474-435b-ad36-662c74df4f9c)](https://docs.google.com/presentation/d/1oJ9ZFFiWtC07keup5J3J4IMvaVuixUd5/edit?usp=sharing&ouid=108782679371656087477&rtpof=true&sd=true)
@@ -28,43 +28,15 @@ Here are some ideas to get you started:
 	2024.04.02 ~ 04.14
 ### 2.참여인원
 	신지민
- 	황예성
-  	장창호
+ 	안효준
+  	김상익
 ### 3.역할
-	자연어 처리, 자료조사, 셀레니움을 활용한 데이터 수집
+	아이디어 제안, 자료조사 및 ppt 제작
 <br/>
 <br/>
 
-## ⚡사용기술
-#### 	프로그래밍 언어: Python 
-#### 	데이터 수집 및 크롤링: Selenium, Beautiful Soup 
-#### 	데이터 처리 및 분석: Pandas 
-#### 	자연어 처리: 형태소 분석, 텍스트 전처리, 키워드 추출 , 긍부정 분석
-#### 	API 활용: 공공 데이터 API
-<br/>
-<br/>
-
-## ⚡핵심 작업
-#### 	1. Selenium을 활용한 비정형 데이터 수집 
-![우천비우천](https://github.com/user-attachments/assets/5b531a4b-e10e-466a-97b4-77d77fecf70c)
-
-#### 	2. 토픽 분석 기법을 이용한 데이터 시각화 (편의점 우산 인식 데이터)
-![토픽분석](https://github.com/user-attachments/assets/9df88382-d718-4b26-9456-4676e35e720e)
-
-#### 	3. Pandas를 활용한 데이터 정제 (서울시 따릉이 데이터)
-![따릉이 그래프](https://github.com/user-attachments/assets/5db0f818-b745-46b4-9722-a81afc0794eb)
-
-#### 	4. Beautiful Soup을 통한 자연어 처리 및 시각화 (블로그, 카페 데이터)
-![워드클라우드](https://github.com/user-attachments/assets/3f269be5-fbeb-400c-850b-ca8aa55b24a9)
-
-#### 	5. 지도 API를 활용한 위치 데이터 시각화 (GS25와 홈플러스 매장 위치 데이터)
-![지도](https://github.com/user-attachments/assets/c5d8bd35-4780-42ac-8c75-954cc23d2f7a)
-
-<br/>
-<br/>
 
 ## ⚡참고자료
-#### 	1.프로젝트 노션
-<https://www.notion.so/be6863e600af4dab8491a1a9cf98c165>
+
 #### 	2.발표자료
-<https://drive.google.com/file/d/1HdT4hgR4bHSfTVH8Rcu8KRHdLRUBjTKr/view?usp=sharing>
+<https://docs.google.com/presentation/d/1oJ9ZFFiWtC07keup5J3J4IMvaVuixUd5/edit?usp=sharing&ouid=108782679371656087477&rtpof=true&sd=true>
